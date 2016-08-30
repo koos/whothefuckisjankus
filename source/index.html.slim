@@ -1,0 +1,11 @@
+ul.c-places
+  - data.places.each_with_index do |place, index|
+    - daterange = !place.date.to.nil?
+    li.c-places__item class="is--#{place.state}"
+      .c-places__body
+        = link_to "#{place.city}, #{place.country}", place.url, class: "c-places__name", target: "_blank"
+        span.c-places__date 
+          time date=place.date.from =place.date.from
+          - if daterange
+            | &nbsp;&mdash;&nbsp;
+            time date=place.date.to =place.date.to

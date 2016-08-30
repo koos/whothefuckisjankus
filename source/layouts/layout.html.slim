@@ -1,0 +1,20 @@
+doctype html
+html.no-js
+  head
+    = partial "/shared/head"
+
+  body class=page_classes
+
+    .o-app
+      header.o-app__header
+        = partial "/shared/header"
+
+      main.o-app__content
+        = yield
+
+      footer.o-app__footer
+        = partial "/shared/footer"
+
+    = partial "/shared/analytics"
+
+    = javascript_include_tag :application

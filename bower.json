@@ -1,0 +1,23 @@
+{
+  "name": "wherethefuckismartin.com",
+  "homepage": "https://wherethefuckismartin.com",
+  "authors": [
+    "Martin Wessely <martin@wesse.ly>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "moment": "momentjs#^2.14.1"
+  },
+  "dependencies": {}
+}

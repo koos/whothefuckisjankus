@@ -1,0 +1,36 @@
+=typo
+  color: $light-gray
+  text-decoration: none
+  text-transform: uppercase
+  letter-spacing: .05rem
+  font-size: .8rem
+
+@function get-list($source, $label)
+  @each $list in $source
+    @if nth($list, 1) == $label
+      @return $list
+  @return null
+
+=visually-hidden
+  position: absolute
+  overflow: hidden
+  clip: rect(0 0 0 0)
+  height: 1px
+  width: 1px
+  margin: -1px
+  padding: 0
+  border: 0
+
+=from($breakpoint)
+  $list: get-list($breakpoints, $breakpoint)
+  $width: nth($list, 2)
+
+  @media screen and (min-width: $width)
+    @content
+
+=until($breakpoint)
+  $list: get-list($breakpoints, $breakpoint)
+  $width: nth($list, 2)
+
+  @media screen and (max-width: $width - 0.1em)
+    @content

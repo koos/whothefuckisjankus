@@ -90,8 +90,10 @@ helpers do
   def page_title
     if current_page.data.title
       "#{data.config.page.title} #{data.config.page.title_sperator} #{current_page.data.title}"
-    else
+    elsif data.config.page.subtitle
       "#{data.config.page.title} #{data.config.page.title_sperator} #{data.config.page.subtitle}"
+    else
+      data.config.page.title
     end
   end
 

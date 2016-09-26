@@ -4,7 +4,7 @@
 
 # Vars
 # ----------------------------------------------
-set :protocol, "http://"
+set :protocol, "https://"
 set :host, "wherethefuckismartin.com"
 set :port, 80
 

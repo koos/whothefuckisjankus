@@ -1,5 +1,3 @@
-#= require moment/min/moment.min.js
-
 # Dynamically load scripts
 ((doc, script) ->
   window.loadScript = (src, id, callback = ->) ->

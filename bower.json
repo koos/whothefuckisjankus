@@ -16,8 +16,6 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
-    "moment": "momentjs#^2.14.1"
-  },
+  "devDependencies": {},
   "dependencies": {}
 }

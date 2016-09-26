@@ -11,12 +11,6 @@ source 'https://rubygems.org'
 # Middleman Gems
 gem "middleman", "3.4.0"
 
-# Middleman Deploy
-gem "middleman-deploy"
-
-# Middleman Dotenv
-gem 'middleman-dotenv', '~> 1.0'
-
 # Middleman minify HTML
 gem "middleman-minify-html"
 

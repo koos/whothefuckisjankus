@@ -47,9 +47,6 @@ end
 
 activate :es6
 
-# Uses .env in the root of the project
-activate :dotenv
-
 # Activate directory indexes
 activate :directory_indexes
 
@@ -106,31 +103,6 @@ helpers do
     end
   end
 
-end
-
-
-# Deployment
-# ----------------------------------------------
-# Usage:
-# $ rake deploy:staging
-# $ rake deploy:production
-case ENV['TARGET'].to_s.downcase
-when "production"
-  activate :deploy do |deploy|
-    deploy.build_before = true
-    deploy.method       = :rsync
-    deploy.host         = ENV["DEPLOY_HOST_PRODUCTION"]
-    deploy.path         = ENV["DEPLOY_PATH_PRODUCTION"]
-    deploy.user         = ENV["DEPLOY_USER_PRODUCTION"]
-  end
-when "staging"
-  activate :deploy do |deploy|
-    deploy.build_before = true
-    deploy.method       = :rsync
-    deploy.host         = ENV["DEPLOY_HOST_STAGING"]
-    deploy.path         = ENV["DEPLOY_PATH_STAGING"]
-    deploy.user         = ENV["DEPLOY_USER_STAGING"]
-  end
 end
 
 

@@ -20,7 +20,7 @@
     from: Oktober, 2016
     to: November, 2016
   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
-  state: upcoming
+  state: current
 
 - city: Stalowa Wola
   country: Poland
@@ -28,7 +28,7 @@
     from: September, 2016
     to:
   url: https://www.google.com/maps/place/Stalowa+Wola,+Poland/@50.5662821,21.9462474,12z/data=!3m1!4b1!4m5!3m4!1s0x473d2c95ff42408b:0x25160a7e508dd65b!8m2!3d50.5826005!4d22.053586
-  state: current
+  state: past
 
 - city: Warsaw
   country: Poland

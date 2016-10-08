@@ -5,7 +5,7 @@
 # Vars
 # ----------------------------------------------
 set :protocol, "https://"
-set :host, "wherethefuckismartin.com"
+set :host, "wherethefuckisjankus.com"
 set :port, 80
 
 set :css_dir,     'assets/stylesheets'

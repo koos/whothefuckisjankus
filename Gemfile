@@ -17,6 +17,8 @@ gem "middleman-minify-html"
 # Middleman autoprefixer
 gem "middleman-autoprefixer"
 
+gem "middleman-deploy"
+
 # Middleman ES6 support
 gem "middleman-es6", github: "vast/middleman-es6"
 

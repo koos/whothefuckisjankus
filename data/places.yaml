@@ -198,6 +198,14 @@
   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
   state: past
 
+- city: Austin
+  country: USA
+  date:
+    from: March, 2015
+    to:
+  url: https://www.google.de/maps/place/Austin,+TX,+USA/@30.307686,-97.8938293,11z/data=!3m1!4b1!4m5!3m4!1s0x8644b599a0cc032f:0x5d9b464bd469d57a!8m2!3d30.267153!4d-97.7430608
+  state: past  
+
 - city: Vienna
   country: Austria
   date:
@@ -206,6 +214,22 @@
   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
   state: past
 
+- city: New York
+  country: USA
+  date:
+    from: March, 2014
+    to:
+  url: https://www.google.de/maps/place/New+York,+NY,+USA/@21.2066142,-83.8892126,3.39z/data=!4m5!3m4!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127837!4d-74.0059413
+  state: past  
+
+- city: Austin
+  country: USA
+  date:
+    from: March, 2014
+    to:
+  url: https://www.google.de/maps/place/Austin,+TX,+USA/@30.307686,-97.8938293,11z/data=!3m1!4b1!4m5!3m4!1s0x8644b599a0cc032f:0x5d9b464bd469d57a!8m2!3d30.267153!4d-97.7430608
+  state: past  
+
 - city: Vienna
   country: Austria
   date:
@@ -213,3 +237,27 @@
     to:
   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
   state: past
+
+- city: Dublin
+  country: Irland
+  date:
+    from: October, 2013
+    to:
+  url: https://www.google.de/maps/place/Dublin,+Ireland/@53.3242376,-6.386129,11z/data=!3m1!4b1!4m5!3m4!1s0x48670e80ea27ac2f:0xa00c7a9973171a0!8m2!3d53.3498053!4d-6.2603097
+  state: past
+
+- city: Amsterdam
+  country: Netherlands
+  date:
+    from: Mai, 2012
+    to:
+  url: https://www.google.de/maps/place/Amsterdam,+Netherlands/@52.3745287,4.7581891,11z/data=!3m1!4b1!4m5!3m4!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!8m2!3d52.3702157!4d4.8951679
+  state: past
+
+- city: New Orleans
+  country: USA
+  date:
+    from: October, 2011
+    to:
+  url: https://www.google.de/maps/place/New+Orleans,+LA,+USA/@30.0215691,-90.0228996,11z/data=!3m1!4b1!4m5!3m4!1s0x8620a454b2118265:0xdb065be85e22d3b4!8m2!3d29.9510658!4d-90.0715323
+  state: past  

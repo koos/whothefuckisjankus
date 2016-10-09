@@ -1,10 +1,10 @@
-- city: Tenerife
-  country: Spain
-  date:
-    from: December, 2016
-    to: January, 2016
-  url: https://www.google.de/maps/place/Tenerife/@28.2931074,-16.8035337,10z/data=!3m1!4b1!4m5!3m4!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304
-  state: upcoming
+# - city: Tenerife
+#   country: Spain
+#   date:
+#     from: December, 2016
+#     to: January, 2016
+#   url: https://www.google.de/maps/place/Tenerife/@28.2931074,-16.8035337,10z/data=!3m1!4b1!4m5!3m4!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304
+#   state: upcoming
 
 - city: Stuttgart
   country: Germany
@@ -33,367 +33,183 @@
 - city: Bardo
   country: Poland
   date:
-    from: Oktober, 2016
-    to: Oktober, 2016
+    from: October, 2016
+    to: October, 2016
   url: https://www.google.com/maps/place/Bardo,+Poland/@50.5006787,16.7296926,14z/data=!3m1!4b1!4m5!3m4!1s0x470e22c956ba0a23:0x6919681eaba27484!8m2!3d50.50505!4d16.74043
   state: current
 
-# - city: Stalowa Wola
-#   country: Poland
-#   date:
-#     from: September, 2016
-#     to:
-#   url: https://www.google.com/maps/place/Stalowa+Wola,+Poland/@50.5662821,21.9462474,12z/data=!3m1!4b1!4m5!3m4!1s0x473d2c95ff42408b:0x25160a7e508dd65b!8m2!3d50.5826005!4d22.053586
-#   state: past
+- city: Berlin
+  country: Germany
+  date:
+    from: September, 2016
+    to: October, 2016
+  url: https://www.google.de/maps/place/Berlin/@51.151786,10.415039,6z/data=!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
+  state: past
 
-# - city: Warsaw
-#   country: Poland
-#   date:
-#     from: September, 2016
-#     to:
-#   url: https://www.google.com/maps/place/Warsaw,+Poland/@52.2330652,20.9211134,11z/data=!3m1!4b1!4m5!3m4!1s0x471ecc669a869f01:0x72f0be2a88ead3fc!8m2!3d52.2296756!4d21.0122287
-#   state: past
+- city: Valetta
+  country: Malta
+  date:
+    from: September, 2016
+    to: September, 2016
+  url: https://www.google.de/maps/place/Malta/@35.9441499,14.2395988,11z/data=!3m1!4b1!4m5!3m4!1s0x130e45281d8647c5:0xf582d86136be4239!8m2!3d35.937496!4d14.375416
+  state: past
 
-# - city: Vaasa
-#   country: Finland
-#   date:
-#     from: August, 2016
-#     to: September, 2016
-#   url: https://www.google.com/maps/place/Helsinki,+Finland/@60.1641013,24.9001876,11z/data=!3m1!4b1!4m5!3m4!1s0x46920bc796210691:0xcd4ebd843be2f763!8m2!3d60.1698557!4d24.938379
-#   state: past
+- city: London
+  country: UK
+  date:
+    from: August, 2016
+    to: August, 2016
+  url: https://www.google.de/maps/place/London,+UK/@45.524429,9.0414392,5.59z/data=!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583
+  state: past  
 
-# - city: Berlin
-#   country: Germany
-#   date:
-#     from: August, 2016
-#     to:
-#   url: https://www.google.com/maps/place/Berlin,+Germany/@52.5076291,13.144965,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
-#   state: past
+- city: Abstatt
+  country: Germany
+  date:
+    from: July, 2016
+    to:
+  url: https://www.google.de/maps/place/Abstatt/@51.151786,10.415039,6z/data=!4m5!3m4!1s0x4798318f3f474359:0x41ffd3c8d099080!8m2!3d49.0688071!4d9.2886712
+  state: past
 
-# - city: Cologne
-#   country: Germany
-#   date:
-#     from: July, 2016
-#     to:
-#   url: https://www.google.com/maps/place/Cologne,+Germany/@50.9573775,6.8272414,11z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
-#   state: past
+- city: Hamburg
+  country: Germany
+  date:
+    from: July, 2016
+    to:
+  url: https://www.google.de/maps/place/Hamburg/@53.5584898,9.7873969,11z/data=!4m5!3m4!1s0x47b161837e1813b9:0x4263df27bd63aa0!8m2!3d53.5510846!4d9.9936818
+  state: past  
 
-# - city: Porto
-#   country: Portugal
-#   date:
-#     from: July, 2016
-#     to:
-#   url: https://www.google.com/maps/place/Porto,+Portugal/@41.162251,-8.6918924,12z/data=!3m1!4b1!4m5!3m4!1s0xd2465abc4e153c1:0xa648d95640b114bc!8m2!3d41.1579438!4d-8.6291053
-#   state: past
+- city: Stuttgart
+  country: Germany
+  date:
+    from: July, 2016
+    to:
+  url: https://www.google.de/maps/place/Stuttgart/@48.7791238,9.03679,11z/data=!3m1!4b1!4m5!3m4!1s0x4799db34c1ad8fd3:0x79d5c11c7791cfe4!8m2!3d48.7758459!4d9.1829321
+  state: past
 
-# - city: Portimão
-#   country: Portugal
-#   date:
-#     from: July, 2016
-#     to:
-#   url: https://www.google.com/maps/place/Portim%C3%A3o,+Portugal/@37.1944059,-8.6549736,12z/data=!3m1!4b1!4m5!3m4!1s0xd1b25cdd8d0f829:0x400ebbde4903440!8m2!3d37.1417854!4d-8.5335055
-#   state: past
+- city: Wrocław
+  country: Poland
+  date:
+    from: July, 2016
+    to:
+  url: https://www.google.com/maps/place/Wroc%C5%82aw,+Poland/@51.1272097,16.851783,11z/data=!3m1!4b1!4m5!3m4!1s0x470fe9c2d4b58abf:0xb70956aec205e0f5!8m2!3d51.1078852!4d17.0385376
+  state: past  
 
-# - city: Lisbon
-#   country: Portugal
-#   date:
-#     from: July, 2016
-#     to:
-#   url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7437395,-9.2302432,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
-#   state: past
+- city: Lagos
+  country: Portugal
+  date:
+    from: June, 2016
+    to: June, 2016
+  url: https://www.google.de/maps/place/Lagos,+Portugal/@37.1531405,-8.8073839,12z/data=!3m1!4b1!4m5!3m4!1s0xd1b31ce6e9198c3:0xcfaec04c78157e66!8m2!3d37.1028034!4d-8.6729254
+  state: past
 
-# - city: Vienna
-#   country: Austria
-#   date:
-#     from: April, 2016
-#     to: June, 2016
-#   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
-#   state: past
+- city: Lisbon
+  country: Portugal
+  date:
+    from: June, 2016
+    to: June, 2016
+  url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
+  state: past
 
-# - city: Wrocław
-#   country: Poland
-#   date:
-#     from: March, 2016
-#     to:
-#   url: https://www.google.com/maps/place/Wroc%C5%82aw,+Poland/@51.1272097,16.851783,11z/data=!3m1!4b1!4m5!3m4!1s0x470fe9c2d4b58abf:0xb70956aec205e0f5!8m2!3d51.1078852!4d17.0385376
-#   state: past
+- city: Vienna
+  country: Austria
+  date:
+    from: May, 2016
+    to: May, 2016
+  url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
+  state: past
 
-# - city: Canoa
-#   country: Ecuador
-#   date:
-#     from: January, 2016
-#     to:
-#   url: https://www.google.com/maps/place/Canoa,+Ecuador/@-0.4643819,-80.4577947,16z/data=!3m1!4b1!4m5!3m4!1s0x902a481fe5f3fc81:0x555a216c0ef13c0a!8m2!3d-0.4637769!4d-80.4535121
-#   state: past
+- city: Venice
+  country: Italy
+  date:
+    from: May, 2016
+    to: May, 2016
+  url: https://www.google.de/maps/place/Venice,+Italy/@45.4055775,12.2413169,11z/data=!3m1!4b1!4m5!3m4!1s0x477eb1daf1d63d89:0x7ba3c6f0bd92102f!8m2!3d45.4408474!4d12.3155151
+  state: past
 
-# - city: Guayaquil
-#   country: Ecuador
-#   date:
-#     from: January, 2016
-#     to:
-#   url: https://www.google.com/maps/place/Guayaquil,+Ecuador/@-2.1522142,-80.0499494,12z/data=!3m1!4b1!4m5!3m4!1s0x902d13cbe855805f:0x8015a492f4fca473!8m2!3d-2.1709979!4d-79.9223592
-#   state: past
+- city: Grožnjan
+  country: Croatia
+  date:
+    from: May, 2016
+    to: May, 2016
+  url: https://www.google.de/maps/place/52429,+Gro%C5%BEnjan,+Croatia/@45.3804677,13.7098336,14z/data=!3m1!4b1!4m5!3m4!1s0x477b5ff92a8e013b:0xc489338fd0dcbbb7!8m2!3d45.3796024!4d13.7226113
+  state: past
 
-# - city: Cologne
-#   country: Germany
-#   date:
-#     from: November, 2015
-#     to: March, 2016
-#   url: https://www.google.com/maps/place/Cologne,+Germany/@50.9573775,6.8272414,11z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
-#   state: past
+- city: Berlin
+  country: Germany
+  date:
+    from: May, 2015
+    to:
+  url: https://www.google.com/maps/place/Berlin,+Germany/@52.5076291,13.144965,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
+  state: past
+#   
+- city: Zürich
+  country: Schweiz
+  date:
+    from: March, 2016
+    to: March, 2016
+  url:  https://www.google.de/maps/place/Z%C3%BCrich,+Switzerland/@48.7163657,9.4161991,7.34z/data=!4m5!3m4!1s0x47900b9749bea219:0xe66e8df1e71fdc03!8m2!3d47.3768866!4d8.541694
+  state: past 
 
-# - city: Vienna
-#   country: Austria
-#   date:
-#     from: October, 2015
-#     to:
-#   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
-#   state: past
+- city: Nendaz
+  country: Schweiz
+  date:
+    from: March, 2016
+    to: March, 2016
+  url:  https://www.google.de/maps/place/Nendaz,+Switzerland/@46.1359835,7.2388839,12z/data=!3m1!4b1!4m5!3m4!1s0x478eda7ba0483bb1:0x1c83c177bc2454f1!8m2!3d46.1834441!4d7.2942353
+  state: past 
 
-# - city: Berlin
-#   country: Germany
-#   date:
-#     from: August, 2015
-#     to:
-#   url: https://www.google.com/maps/place/Berlin,+Germany/@52.5076291,13.144965,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
-#   state: past
+- city: Lausanne
+  country: Schweiz
+  date:
+    from: March, 2016
+    to: March, 2016
+  url:  https://www.google.de/maps/place/Lausanne,+Switzerland/@45.3286848,8.0319276,7.77z/data=!4m5!3m4!1s0x478c293ecd89a7e5:0xeb173fc9cae2ee5e!8m2!3d46.5196535!4d6.6322734
+  state: past 
 
-# - city: Cologne
-#   country: Germany
-#   date:
-#     from: August, 2015
-#     to: September, 2015
-#   url: https://www.google.com/maps/place/Cologne,+Germany/@50.9573775,6.8272414,11z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
-#   state: past
+- city: Geneva
+  country: Schweiz
+  date:
+    from: March, 2016
+    to: March, 2016
+  url:  https://www.google.de/maps/place/Geneva,+Switzerland/@46.2050241,6.1089834,13z/data=!3m1!4b1!4m5!3m4!1s0x478c650693d0e2eb:0xa0b695357b0bbc39!8m2!3d46.2043907!4d6.1431577
+  state: past 
 
-# - city: Orava
-#   country: Slovakia
-#   date:
-#     from: July, 2015
-#     to:
-#   url:
-#   state: past
+- city: Tenerife
+  country: Spain
+  date:
+    from: December, 2015
+    to: January, 2015
+  url: https://www.google.de/maps/place/Tenerife/@28.2931074,-16.8035337,10z/data=!3m1!4b1!4m5!3m4!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304
+  state: past  
 
-# - city: Zurich
-#   country: Switzerland
-#   date:
-#     from: June, 2015
-#     to:
-#   url: https://www.google.com/maps/place/Z%C3%BCrich,+Switzerland/@47.3775499,8.4666758,12z/data=!3m1!4b1!4m5!3m4!1s0x47900b9749bea219:0xe66e8df1e71fdc03!8m2!3d47.3768866!4d8.541694
-#   state: past
+- city: Bardo
+  country: Poland
+  date:
+    from: December, 2015
+    to: December, 2015
+  url: https://www.google.com/maps/place/Bardo,+Poland/@50.5006787,16.7296926,14z/data=!3m1!4b1!4m5!3m4!1s0x470e22c956ba0a23:0x6919681eaba27484!8m2!3d50.50505!4d16.74043
+  state: past
 
-# - city: Cologne
-#   country: Germany
-#   date:
-#     from: June, 2015
-#     to:
-#   url: https://www.google.com/maps/place/Cologne,+Germany/@50.9573775,6.8272414,11z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
-#   state: past
+- city: Vienna
+  country: Austria
+  date:
+    from: October, 2015
+    to:
+  url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
+  state: past
 
-# - city: Chiang Mai
-#   country: Thailand
-#   date:
-#     from: April, 2015
-#     to:
-#   url: https://www.google.com/maps/place/Chiang+Mai,+Mueang+Chiang+Mai+District,+Chiang+Mai,+Thailand/@18.7719015,98.8864375,12z/data=!3m1!4b1!4m5!3m4!1s0x30da3a7e90bb6f5d:0x98d46270a59b4367!8m2!3d18.7060641!4d98.9817163
-#   state: past
+- city: Vienna
+  country: Austria
+  date:
+    from: October, 2014
+    to:
+  url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
+  state: past
 
-# - city: Bali
-#   country: Indonesia
-#   date:
-#     from: March, 2015
-#     to:
-#   url: https://www.google.com/maps/place/Bali,+Indonesia/@-8.4536984,114.5111484,9z/data=!3m1!4b1!4m5!3m4!1s0x2dd141d3e8100fa1:0x24910fb14b24e690!8m2!3d-8.4095178!4d115.188916
-#   state: past
-
-# - city: Singapore
-#   country: Singapore
-#   date:
-#     from: March, 2015
-#     to:
-#   url: https://www.google.com/maps/place/Singapore/@1.31507,103.7069357,11z/data=!3m1!4b1!4m5!3m4!1s0x31da11238a8b9375:0x887869cf52abf5c4!8m2!3d1.352083!4d103.819836
-#   state: past
-
-# - city: Da Nang
-#   country: Vietnam
-#   date:
-#     from: February, 2015
-#     to:
-#   url: https://www.google.com/maps/place/Da+Nang,+H%E1%BA%A3i+Ch%C3%A2u+District,+Da+Nang,+Vietnam/@16.0471599,108.1712141,13z/data=!3m1!4b1!4m5!3m4!1s0x314219c792252a13:0xfc14e3a044436487!8m2!3d16.0544068!4d108.2021667
-#   state: past
-
-# - city: Kuala Lumpur
-#   country: Malaysia
-#   date:
-#     from: February, 2015
-#     to:
-#   url: https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur,+Malaysia/@3.1386749,101.6169497,12z/data=!3m1!4b1!4m5!3m4!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d!8m2!3d3.139003!4d101.686855
-#   state: past
-
-# - city: Hamburg
-#   country: Germany
-#   date:
-#     from: December, 2014
-#     to:
-#   url: https://www.google.com/maps/place/Hamburg,+Germany/@53.5586941,9.7877408,11z/data=!3m1!4b1!4m5!3m4!1s0x47b161837e1813b9:0x4263df27bd63aa0!8m2!3d53.5510846!4d9.9936818
-#   state: past
-
-# - city: Warsaw
-#   country: Poland
-#   date:
-#     from: February, 2014
-#     to:
-#   url: https://www.google.com/maps/place/Warsaw,+Poland/@52.2330652,20.9211134,11z/data=!3m1!4b1!4m5!3m4!1s0x471ecc669a869f01:0x72f0be2a88ead3fc!8m2!3d52.2296756!4d21.0122287
-#   state: past
-
-# - city: Berlin
-#   country: Germany
-#   date:
-#     from: September, 2013
-#     to:
-#   url: https://www.google.com/maps/place/Berlin,+Germany/@52.5076291,13.144965,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
-#   state: past
-
-# - city: Znojmo
-#   country: Czech Republic
-#   date:
-#     from: August, 2013
-#     to:
-#   url: https://www.google.com/maps/place/Znojmo,+Czech+Republic/@48.8566829,15.9915116,12z/data=!3m1!4b1!4m5!3m4!1s0x476d55021054b4a7:0x400af0f66163ed0!8m2!3d48.8559107!4d16.0542676
-#   state: past
-
-# - city: Bratislava
-#   country: Slovakia
-#   date:
-#     from: August, 2013
-#     to:
-#   url: https://www.google.com/maps/place/Bratislava,+Slovakia/@48.1359244,16.9758358,11z/data=!3m1!4b1!4m5!3m4!1s0x476c89360aca6197:0x631f9b82fd884368!8m2!3d48.1485965!4d17.1077477
-#   state: past
-
-# - city: Jyväskylä
-#   country: Finland
-#   date:
-#     from: June, 2013
-#     to:
-#   url: https://www.google.com/maps/place/Jyv%C3%A4skyl%C3%A4,+Finland/@62.1378714,25.3756893,10z/data=!3m1!4b1!4m5!3m4!1s0x46857415d1a93119:0xba57697d6790a2d7!8m2!3d62.2426034!4d25.7472567
-#   state: past
-
-# - city: Vaasa
-#   country: Finland
-#   date:
-#     from: June, 2013
-#     to:
-#   url: https://www.google.com/maps/place/Vaasa,+Finland/@63.0651803,21.4493921,10z/data=!3m1!4b1!4m5!3m4!1s0x467d603e623ab243:0x1e1d7faa61aa800e!8m2!3d63.095089!4d21.6164564
-#   state: past
-
-# - city: Turku
-#   country: Finland
-#   date:
-#     from: June, 2013
-#     to:
-#   url: https://www.google.com/maps/place/Turku,+Finland/@60.4327477,22.0853195,11z/data=!3m1!4b1!4m5!3m4!1s0x468c7584818edbbb:0x400b551554bc200!8m2!3d60.4518126!4d22.2666303
-#   state: past
-
-# - city: Mariehamn
-#   country: Åland Islands
-#   date:
-#     from: June, 2013
-#     to:
-#   url: https://www.google.com/maps/place/Mariehamn,+%C3%85land+Islands/@60.0945925,19.9076797,13z/data=!4m5!3m4!1s0x468ac39bbbc635ed:0x46420b026c8f9acd!8m2!3d60.0970945!4d19.9348339
-#   state: past
-
-# - city: Stockholm
-#   country: Sweden
-#   date:
-#     from: June, 2013
-#     to:
-#   url: https://www.google.com/maps/place/Stockholm,+Sweden/@59.3262419,17.8474654,11z/data=!3m1!4b1!4m5!3m4!1s0x465f763119640bcb:0xa80d27d3679d7766!8m2!3d59.3293235!4d18.0685808
-#   state: past
-
-# - city: Barcelona
-#   country: Spain
-#   date:
-#     from: August, 2011
-#     to:
-#   url: https://www.google.com/maps/place/Barcelona,+Spain/@41.3948975,2.0787284,12z/data=!3m1!4b1!4m5!3m4!1s0x12a49816718e30e5:0x44b0fb3d4f47660a!8m2!3d41.3850639!4d2.1734035
-#   state: past
-
-# - city: Paris
-#   country: France
-#   date:
-#     from: August, 2011
-#     to:
-#   url: https://www.google.com/maps/place/Paris,+France/@48.8589507,2.2775177,12z/data=!3m1!4b1!4m5!3m4!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!8m2!3d48.856614!4d2.3522219
-#   state: past
-
-# - city: Brussels
-#   country: Belgium
-#   date:
-#     from: August, 2011
-#     to:
-#   url: https://www.google.com/maps/place/Brussels,+Belgium/@50.8550624,4.3053508,12z/data=!3m1!4b1!4m5!3m4!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!8m2!3d50.8503396!4d4.3517103
-#   state: past
-
-# - city: Amsterdam
-#   country: The Netherlands
-#   date:
-#     from: August, 2011
-#     to:
-#   url: https://www.google.com/maps/place/Amsterdam,+Netherlands/@52.3747388,4.7585334,11z/data=!3m1!4b1!4m5!3m4!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!8m2!3d52.3702157!4d4.8951679
-#   state: past
-
-# - city: Berlin
-#   country: Germany
-#   date:
-#     from: August, 2011
-#     to:
-#   url: https://www.google.com/maps/place/Berlin,+Germany/@52.5076291,13.144965,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
-#   state: past
-
-# - city: Prague
-#   country: Czech Republic
-#   date:
-#     from: August, 2011
-#     to:
-#   url: https://www.google.com/maps/place/Prague,+Czech+Republic/@50.0598057,14.3255429,11z/data=!3m1!4b1!4m5!3m4!1s0x470b939c0970798b:0x400af0f66164090!8m2!3d50.0755381!4d14.4378005
-#   state: past
-
-# - city: Jyväskylä
-#   country: Finland
-#   date:
-#     from: May, 2011
-#     to:
-#   url: https://www.google.com/maps/place/Jyv%C3%A4skyl%C3%A4,+Finland/@62.1378714,25.3756893,10z/data=!3m1!4b1!4m5!3m4!1s0x46857415d1a93119:0xba57697d6790a2d7!8m2!3d62.2426034!4d25.7472567
-#   state: past
-
-# - city: Vaasa
-#   country: Finland
-#   date:
-#     from: May, 2011
-#     to:
-#   url: https://www.google.com/maps/place/Vaasa,+Finland/@63.0651803,21.4493921,10z/data=!3m1!4b1!4m5!3m4!1s0x467d603e623ab243:0x1e1d7faa61aa800e!8m2!3d63.095089!4d21.6164564
-#   state: past
-
-# - city: Helsinki
-#   country: Finland
-#   date:
-#     from: May, 2011
-#     to:
-#   url: https://www.google.com/maps/place/Helsinki,+Finland/@60.1641013,24.9001876,11z/data=!3m1!4b1!4m5!3m4!1s0x46920bc796210691:0xcd4ebd843be2f763!8m2!3d60.1698557!4d24.938379
-#   state: past
-
-# - city: St. Julian's
-#   country: Malta
-#   date:
-#     from: 2007
-#     to:
-#   url: https://www.google.com/maps/place/St+Julian's,+Malta/@35.9198576,14.4808655,15z/data=!3m1!4b1!4m5!3m4!1s0x130e45427f0375f7:0x7a38c2e22e82a5af!8m2!3d35.9181297!4d14.4883442
-#   state: past
-
-# - city: Ljubljana
-#   country: Slovenia
-#   date:
-#     from: 2006
-#     to:
-#   url: https://www.google.com/maps/place/Ljubljana,+Slovenia/@46.0662151,14.4620599,12z/data=!3m1!4b1!4m5!3m4!1s0x476531f5969886d1:0x400f81c823fec20!8m2!3d46.0569465!4d14.5057515
-#   state: past
+- city: Vienna
+  country: Austria
+  date:
+    from: October, 2013
+    to:
+  url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
+  state: past

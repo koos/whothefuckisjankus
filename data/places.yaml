@@ -6,12 +6,28 @@
 #   url: https://www.google.de/maps/place/Tenerife/@28.2931074,-16.8035337,10z/data=!3m1!4b1!4m5!3m4!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304
 #   state: upcoming
 
+- city: Lisbon
+  country: Portugal
+  date:
+    from: November, 2016
+    to: December, 2016
+  url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
+  state: upcoming
+  
 - city: Kall
   country: Germany
   date:
     from: December, 2016
     to: December, 2016
   url: https://www.google.de/maps/place/Kall/@50.5161155,6.4843452,12z/data=!3m1!4b1!4m5!3m4!1s0x47bf74e0514b8e8b:0xffc05070d826b01e!8m2!3d50.5418388!4d6.5625303
+  state: upcoming
+
+- city: Lisbon
+  country: Portugal
+  date:
+    from: November, 2016
+    to: December, 2016
+  url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
   state: upcoming
 
 - city: Gelnhausen
@@ -22,12 +38,28 @@
   url: https://www.google.de/maps/place/63571+Gelnhausen/@50.2059384,9.1214157,12z/data=!3m1!4b1!4m5!3m4!1s0x47bd25ba098f5cdd:0x422435029b09de0!8m2!3d50.2045664!4d9.1863725
   state: upcoming
 
+- city: Lisbon
+  country: Portugal
+  date:
+    from: November, 2016
+    to: December, 2016
+  url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
+  state: upcoming
+
 - city: Stuttgart
   country: Germany
   date:
     from: November, 2016
     to: November, 2016
   url: https://www.google.de/maps/place/Stuttgart/@48.7791238,9.0367897,11z/data=!3m1!4b1!4m5!3m4!1s0x4799db34c1ad8fd3:0x79d5c11c7791cfe4!8m2!3d48.7758459!4d9.1829321
+  state: upcoming
+
+- city: Lisbon
+  country: Portugal
+  date:
+    from: November, 2016
+    to: December, 2016
+  url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
   state: upcoming
 
 - city: Abstatt

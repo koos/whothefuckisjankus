@@ -6,6 +6,22 @@
 #   url: https://www.google.de/maps/place/Tenerife/@28.2931074,-16.8035337,10z/data=!3m1!4b1!4m5!3m4!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304
 #   state: upcoming
 
+- city: Kall
+  country: Germany
+  date:
+    from: December, 2016
+    to: December, 2016
+  url: https://www.google.de/maps/place/Kall/@50.5161155,6.4843452,12z/data=!3m1!4b1!4m5!3m4!1s0x47bf74e0514b8e8b:0xffc05070d826b01e!8m2!3d50.5418388!4d6.5625303
+  state: upcoming
+
+- city: Gelnhausen
+  country: Germany
+  date:
+    from: December, 2016
+    to: December, 2016
+  url: https://www.google.de/maps/place/63571+Gelnhausen/@50.2059384,9.1214157,12z/data=!3m1!4b1!4m5!3m4!1s0x47bd25ba098f5cdd:0x422435029b09de0!8m2!3d50.2045664!4d9.1863725
+  state: upcoming
+
 - city: Stuttgart
   country: Germany
   date:
@@ -137,7 +153,7 @@
 - city: Berlin
   country: Germany
   date:
-    from: May, 2015
+    from: May, 2016
     to:
   url: https://www.google.com/maps/place/Berlin,+Germany/@52.5076291,13.144965,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
   state: past
@@ -198,6 +214,38 @@
   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
   state: past
 
+- city: Zagreb
+  country: Croatia
+  date:
+    from: July, 2015
+    to: July, 2015
+  url: https://www.google.pl/maps/place/Zagrzeb,+Chorwacja/@45.8403496,15.8242459,11z/data=!3m1!4b1!4m5!3m4!1s0x4765d692c902cc39:0x3a45249628fbc28a!8m2!3d45.8150108!4d15.981919
+  state: past
+
+- city: Vis
+  country: Croatia
+  date:
+    from: July, 2015
+    to: July, 2015
+  url: https://www.google.pl/maps/place/Vis/@43.0435684,16.0835259,12z/data=!3m1!4b1!4m5!3m4!1s0x1335bd8be21cc089:0x372021452eb33b56!8m2!3d43.0459364!4d16.1540557
+  state: past
+
+- city: Zadar
+  country: Croatia
+  date:
+    from: July, 2015
+    to: July, 2015
+  url: https://www.google.pl/maps/place/Zadar,+Chorwacja/@44.1350575,15.1788736,12z/data=!3m1!4b1!4m5!3m4!1s0x4761fa62d2c0b88f:0x12323e1c13f40784!8m2!3d44.119371!4d15.2313648
+  state: past
+
+- city: Grožnjan
+  country: Croatia
+  date:
+    from: July, 2015
+    to: July, 2015
+  url: https://www.google.de/maps/place/52429,+Gro%C5%BEnjan,+Croatia/@45.3804677,13.7098336,14z/data=!3m1!4b1!4m5!3m4!1s0x477b5ff92a8e013b:0xc489338fd0dcbbb7!8m2!3d45.3796024!4d13.7226113
+  state: past
+
 - city: Austin
   country: USA
   date:
@@ -244,6 +292,54 @@
     from: October, 2013
     to:
   url: https://www.google.de/maps/place/Dublin,+Ireland/@53.3242376,-6.386129,11z/data=!3m1!4b1!4m5!3m4!1s0x48670e80ea27ac2f:0xa00c7a9973171a0!8m2!3d53.3498053!4d-6.2603097
+  state: past
+
+- city: Bangkok
+  country: Thailand
+  date:
+    from: April, 2013
+    to:
+  url: https://www.google.pl/maps/place/Bangkok,+Tajlandia/@13.7244425,100.3529159,10z/data=!3m1!4b1!4m5!3m4!1s0x311d6032280d61f3:0x10100b25de24820!8m2!3d13.7563309!4d100.5017651
+  state: past
+
+- city: Ko Kut
+  country: Thailand
+  date:
+    from: April, 2013
+    to:
+  url:  https://www.google.pl/maps/place/Ko+Chang,+Prowincja+Trat,+Tajlandia/@11.8344585,101.8570017,9.85z/data=!4m5!3m4!1s0x310416b31773727d:0x303d84ae1b457e0!8m2!3d12.0479159!4d102.3234816
+  state: past
+
+- city: Ko Chang
+  country: Thailand
+  date:
+    from: April, 2013
+    to:
+  url:  https://www.google.pl/maps/place/Ko+Kut/@11.8586154,102.3492014,11z/data=!4m5!3m4!1s0x31069badd0f9c685:0x6e4c6c3c1cb65b83!8m2!3d11.6680759!4d102.5642261
+  state: past
+
+- city: Siem Reap
+  country: Cambodia
+  date:
+    from: April, 2013
+    to:
+  url: https://www.google.pl/maps/place/Krong+Siem+Reap,+Kambod%C5%BCa/@13.3430577,103.7228652,11z/data=!3m1!4b1!4m5!3m4!1s0x3110169a8c91a879:0xa940aaf93ee5bbfa!8m2!3d13.3670968!4d103.8448134
+  state: past
+
+- city: Phnom Penh
+  country: Cambodia
+  date:
+    from: April, 2013
+    to:
+  url: https://www.google.pl/maps/place/Bangkok,+Tajlandia/@13.7244425,100.3529159,10z/data=!3m1!4b1!4m5!3m4!1s0x311d6032280d61f3:0x10100b25de24820!8m2!3d13.7563309!4d100.5017651
+  state: past
+
+- city: Bangkok
+  country: Thailand
+  date:
+    from: April, 2013
+    to:
+  url: https://www.google.pl/maps/place/Bangkok,+Tajlandia/@13.7244425,100.3529159,10z/data=!3m1!4b1!4m5!3m4!1s0x311d6032280d61f3:0x10100b25de24820!8m2!3d13.7563309!4d100.5017651
   state: past
 
 - city: Amsterdam

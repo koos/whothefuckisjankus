@@ -278,7 +278,7 @@
   url: https://www.google.de/maps/place/788+15+Velk%C3%A9+Losiny,+Czech+Republic/@50.0554561,17.0087015,13z/data=!3m1!4b1!4m5!3m4!1s0x47121dba6b260679:0x400af0f66161610!8m2!3d50.0320042!4d17.0404816
   state: past
 
-  - city: Brno
+- city: Brno
   country: Czech Republic
   date:
     from: December, 2015

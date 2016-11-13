@@ -84,7 +84,7 @@
     from: November, 2016
     to: December, 2016
   url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
-  state: upcoming
+  state: current
 
 - city: Abstatt
   country: Germany
@@ -92,7 +92,7 @@
     from: November, 2016
     to: November, 2016
   url: https://www.google.de/maps/place/Abstatt/@51.151786,10.415039,6z/data=!4m5!3m4!1s0x4798318f3f474359:0x41ffd3c8d099080!8m2!3d49.0688071!4d9.2886712
-  state: upcoming
+  state: past
 
 - city: Lisbon
   country: Portugal
@@ -100,7 +100,7 @@
     from: November, 2016
     to: December, 2016
   url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
-  state: upcoming
+  state: past
 
 - city: Cologne
   country: Germany
@@ -108,7 +108,7 @@
     from: October, 2016
     to: October, 2016
   url: https://www.google.com/maps/place/Bardo,+Poland/@50.5006787,16.7296926,14z/data=!3m1!4b1!4m5!3m4!1s0x470e22c956ba0a23:0x6919681eaba27484!8m2!3d50.50505!4d16.74043
-  state: current
+  state: past
 
 - city: Bardo
   country: Poland

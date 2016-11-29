@@ -68,7 +68,7 @@
     from: November, 2016
     to: December, 2016
   url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
-  state: upcoming
+  state: current
 
 - city: Stuttgart
   country: Germany
@@ -76,7 +76,7 @@
     from: November, 2016
     to: November, 2016
   url: https://www.google.de/maps/place/Stuttgart/@48.7791238,9.0367897,11z/data=!3m1!4b1!4m5!3m4!1s0x4799db34c1ad8fd3:0x79d5c11c7791cfe4!8m2!3d48.7758459!4d9.1829321
-  state: current
+  state: past
 
 - city: Lisbon
   country: Portugal

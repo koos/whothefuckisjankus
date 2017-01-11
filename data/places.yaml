@@ -1,10 +1,18 @@
+- city: Cologne
+  country: Germany
+  date:
+    from: January, 2016
+    to:
+  url: https://www.google.com/maps/place/Bardo,+Poland/@50.5006787,16.7296926,14z/data=!3m1!4b1!4m5!3m4!1s0x470e22c956ba0a23:0x6919681eaba27484!8m2!3d50.50505!4d16.74043
+  state: current
+
 - city: Tenerife
   country: Spain
   date:
     from: December, 2016
     to: January, 2016
   url: https://www.google.de/maps/place/Tenerife/@28.2931074,-16.8035337,10z/data=!3m1!4b1!4m5!3m4!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304
-  state: upcoming
+  state: past
 
 - city: Male Ciche
   country: Poland
@@ -12,7 +20,7 @@
     from: December, 2016
     to: December, 2016
   url: 
-  state: current
+  state: past
 
 - city: Kattowice
   country: Poland

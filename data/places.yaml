@@ -1,23 +1,23 @@
 - city: Lisbon
   country: Portugal
   date:
-    from: November, 2018
-    to: November, 2018
+    from: 02. November, 2018
+    to: 09. November, 2018
   url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
   state: upcomming
 
 - city: Amsterdam
   country: Netherlands
   date:
-    from: June, 2018
-    to: June, 2018
+    from: 01. June, 2018
+    to: 06. June, 2018
   url: https://www.google.de/maps/place/Amsterdam,+Netherlands/@52.3745287,4.7581891,11z/data=!3m1!4b1!4m5!3m4!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!8m2!3d52.3702157!4d4.8951679
   state: upcomming
 
 - city: Cologne
   country: Germany
   date:
-    from: January, 2018
+    from: 29. January, 2018
     to:
   url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
   state: upcomming
@@ -25,34 +25,42 @@
 - city: Bardo
   country: Poland
   date:
-    from: January, 2018
-    to: January, 2018
+    from: 26. January, 2018
+    to: 29. January, 2018
   url: https://www.google.com/maps/place/Bardo,+Poland/@50.5006787,16.7296926,14z/data=!3m1!4b1!4m5!3m4!1s0x470e22c956ba0a23:0x6919681eaba27484!8m2!3d50.50505!4d16.74043
   state: upcomming
 
 - city: Cologne
   country: Germany
   date:
-    from: January, 2018
-    to:
+    from: 09. January, 2018
+    to: 26. January, 2018
   url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
   state: upcomming
 
 - city: Tenerife
   country: Spain
   date:
-    from: December, 2017
-    to: January, 2018
+    from: 31. December, 2017
+    to: 09. January, 2018
   url: https://www.google.de/maps/place/Tenerife/@28.2931074,-16.8035337,10z/data=!3m1!4b1!4m5!3m4!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304
+  state: upcomming
+
+- city: Bardo
+  country: Poland
+  date:
+    from: 22. December, 2017
+    to: 29. December, 2017
+  url: https://www.google.com/maps/place/Bardo,+Poland/@50.5006787,16.7296926,14z/data=!3m1!4b1!4m5!3m4!1s0x470e22c956ba0a23:0x6919681eaba27484!8m2!3d50.50505!4d16.74043
   state: upcomming
 
 - city: Cologne
   country: Germany
   date:
-    from: November, 2017
-    to:
+    from: 01. December, 2017
+    to: 22. December, 2017
   url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
-  state: upcomming
+  state: current
 
 - city: Bardo
   country: Poland
@@ -60,7 +68,7 @@
     from: November, 2017
     to: November, 2017
   url: https://www.google.com/maps/place/Bardo,+Poland/@50.5006787,16.7296926,14z/data=!3m1!4b1!4m5!3m4!1s0x470e22c956ba0a23:0x6919681eaba27484!8m2!3d50.50505!4d16.74043
-  state: upcomming
+  state: past
 
 - city: Lisbon
   country: Portugal

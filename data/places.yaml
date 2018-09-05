@@ -4,7 +4,63 @@
     from: 02. November, 2018
     to: 09. November, 2018
   url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
+  state: upcomming  
+
+- city: Talinn
+  country: Estonia
+  date:
+    from: October, 2018
+    to: October, 2018
+  url: https://www.google.com/maps/place/Tallinn,+Estonia/@59.4354294,24.5772631,10.86z/data=!4m13!1m7!3m6!1s0xd10037cd08e6625:0xd44503c5392ddd45!2sTavira,+Portugal!3b1!8m2!3d37.1335906!4d-7.6430019!3m4!1s0x46929499df5616bf:0x400b36d18fc6270!8m2!3d59.4394896!4d24.7521973
   state: upcomming
+
+- city: Dubrovnik
+  country: Croatia
+  date:
+    from: September, 2018
+    to: September, 2018
+  url: https://www.google.com/maps/place/Dubrovnik,+Croatia/data=!4m2!3m1!1s0x134b8ba20835e87d:0x400ad50862bd500?sa=X&ved=2ahUKEwi2sOiUpKPdAhVOF8AKHcgkClYQ8gEwEXoECAoQCw
+  state: upcomming
+
+- city: Grožnjan
+  country: Croatia
+  date:
+    from: September, 2018
+    to: September, 2018
+  url: https://www.google.de/maps/place/52429,+Gro%C5%BEnjan,+Croatia/@45.3804677,13.7098336,14z/data=!3m1!4b1!4m5!3m4!1s0x477b5ff92a8e013b:0xc489338fd0dcbbb7!8m2!3d45.3796024!4d13.7226113
+  state: upcomming
+
+- city: Cologne
+  country: Germany
+  date:
+    from: September
+    to:
+  url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
+  state: upcomming  
+
+  - city: Munich
+  country: Germany
+  date:
+    from: August, 2018
+    to: August, 2018
+  url: https://www.google.de/maps/place/Munich/data=!4m2!3m1!1s0x479e75f9a38c5fd9:0x10cb84a7db1987d?sa=X&ved=0ahUKEwjKnayUr7PSAhVH7RQKHRm2BEkQ8gEIGzAA
+  state: upcomming
+
+- city: Linz
+  country: Austria
+  date:
+    from: September, 2018
+    to: September, 2018
+  url: https://www.google.com/maps/place/Linz/@48.2949799,14.1873215,11z/data=!3m1!4b1!4m5!3m4!1s0x47739595fa99854d:0x7c53292c577975c4!8m2!3d48.30694!4d14.28583
+  state: upcomming
+
+- city: Hallein
+  country: Germany
+  date:
+    from: September, 2018
+    to: September, 2018
+  url: https://www.google.com/maps/place/Hallein/@47.6819987,13.0156601,12z/data=!3m1!4b1!4m5!3m4!1s0x477694fba1823a09:0x9a744eee8b4f7e80!8m2!3d47.68248!4d13.10037
+  state: upcomming    
 
 - city: Vienna
   country: Austria
@@ -14,12 +70,92 @@
   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
   state: current
 
+- city: Cologne
+  country: Germany
+  date:
+    from: September
+    to:
+  url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
+  state: past  
+
+- city: Tavira
+  country: Portugal
+  date:
+    from: August, 2018
+    to: September, 2018
+  url: https://www.google.com/maps/place/Tavira,+Portugal/@37.1294045,-7.6700564,13z/data=!3m1!4b1!4m5!3m4!1s0xd10037cd08e6625:0xd44503c5392ddd45!8m2!3d37.1335906!4d-7.6430019
+  state: past  
+
+- city: Cologne
+  country: Germany
+  date:
+    from: August
+    to:
+  url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
+  state: past  
+
+- city: Munich
+  country: Germany
+  date:
+    from: August, 2018
+    to: August, 2018
+  url: https://www.google.de/maps/place/Munich/data=!4m2!3m1!1s0x479e75f9a38c5fd9:0x10cb84a7db1987d?sa=X&ved=0ahUKEwjKnayUr7PSAhVH7RQKHRm2BEkQ8gEIGzAA
+  state: past
+
+- city: Cologne
+  country: Germany
+  date:
+    from: August
+    to:
+  url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
+  state: past  
+
+- city: Vienna
+country: Austria
+date:
+  from: August, 2018
+  to: August, 2018
+url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
+state: past
+
+- city: Cologne
+  country: Germany
+  date:
+    from: June, 2018
+    to:
+  url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
+  state: past
+
 - city: Amsterdam
   country: Netherlands
   date:
     from: 01. June, 2018
     to: 06. June, 2018
   url: https://www.google.de/maps/place/Amsterdam,+Netherlands/@52.3745287,4.7581891,11z/data=!3m1!4b1!4m5!3m4!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!8m2!3d52.3702157!4d4.8951679
+  state: past
+
+- city: Berlin
+  country: Germany
+  date:
+    from: April, 2018
+    to: Mai, 2018
+  url: https://www.google.de/maps/place/Berlin/@51.151786,10.415039,6z/data=!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
+  state: past
+
+- city: Magdeburg
+  country: Germany
+  date:
+    from: April, 2018
+    to:
+  url: https://www.google.com/maps/place/Magdeburg,+Germany/data=!4m2!3m1!1s0x47a5f5ff55daea5b:0x4236659f8071060?sa=X&ved=2ahUKEwjM7uXBpqPdAhVD3iwKHVCpApIQ8gEwAHoECAQQAQ
+  state: past
+
+- city: Hamburg
+  country: Germany
+  date:
+    from: April, 2018
+    to:
+  url: https://www.google.de/maps/place/Hamburg/@53.5584898,9.7873969,11z/data=!4m5!3m4!1s0x47b161837e1813b9:0x4263df27bd63aa0!8m2!3d53.5510846!4d9.9936818
   state: past
 
 - city: Cologne

@@ -14,6 +14,14 @@
   url: https://www.google.com/maps/place/Tallinn,+Estonia/@59.4354294,24.5772631,10.86z/data=!4m13!1m7!3m6!1s0xd10037cd08e6625:0xd44503c5392ddd45!2sTavira,+Portugal!3b1!8m2!3d37.1335906!4d-7.6430019!3m4!1s0x46929499df5616bf:0x400b36d18fc6270!8m2!3d59.4394896!4d24.7521973
   state: upcomming
 
+- city: Kotor
+  country: Montenegro
+  date:
+    from: September, 2018
+    to: September, 2018
+  url: https://www.google.com/maps/place/Kotor,+Montenegro/@42.6604717,14.3236819,6.28z/data=!4m5!3m4!1s0x134c33063d70c91b:0x7a73f15e212e9306!8m2!3d42.424662!4d18.771234
+  state: upcomming
+
 - city: Dubrovnik
   country: Croatia
   date:

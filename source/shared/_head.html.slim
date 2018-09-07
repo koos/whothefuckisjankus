@@ -1,6 +1,15 @@
 meta charset="utf-8"
 title=page_title
 
+script crossorigin="anonymous" src="https://code.jquery.com/jquery-3.1.0.js" 
+
+javascript:
+	$(document).ready(function () {
+	    $('html, body').animate({
+	        scrollTop: $('.is--current').offset().top
+	    }, 'slow');
+	});
+
 meta name="description" content=data.config.page.meta.description
 meta name="keywords" content=data.config.page.meta.keywords
 meta name="author" content=data.config.page.meta.author

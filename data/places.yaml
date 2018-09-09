@@ -54,13 +54,21 @@
   url: https://www.google.de/maps/place/Munich/data=!4m2!3m1!1s0x479e75f9a38c5fd9:0x10cb84a7db1987d?sa=X&ved=0ahUKEwjKnayUr7PSAhVH7RQKHRm2BEkQ8gEIGzAA
   state: upcomming
 
+- city: Chiemsee
+  country: Austria
+  date:
+    from: September, 2018
+    to: September, 2018
+  url: https://www.google.com/maps/place/Chiemsee/@47.8804387,12.3007426,11z/data=!3m1!4b1!4m5!3m4!1s0x47766d7e4e3af6cb:0x88c0b379f2ea7eda!8m2!3d47.8709042!4d12.4537375
+  state: current
+
 - city: Linz
   country: Austria
   date:
     from: September, 2018
     to: September, 2018
   url: https://www.google.com/maps/place/Linz/@48.2949799,14.1873215,11z/data=!3m1!4b1!4m5!3m4!1s0x47739595fa99854d:0x7c53292c577975c4!8m2!3d48.30694!4d14.28583
-  state: upcomming
+  state: past
 
 - city: Hallein
   country: Germany
@@ -68,7 +76,7 @@
     from: September, 2018
     to: September, 2018
   url: https://www.google.com/maps/place/Hallein/@47.6819987,13.0156601,12z/data=!3m1!4b1!4m5!3m4!1s0x477694fba1823a09:0x9a744eee8b4f7e80!8m2!3d47.68248!4d13.10037
-  state: upcomming    
+  state: past    
 
 - city: Vienna
   country: Austria
@@ -76,7 +84,7 @@
     from: September, 2018
     to: September, 2018
   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
-  state: current
+  state: past
 
 - city: Cologne
   country: Germany

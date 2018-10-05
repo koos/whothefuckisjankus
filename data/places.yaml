@@ -1,3 +1,12 @@
+
+- city: Bratislava
+  country: Slowakia
+  date:
+    from: November, 2018
+    to: November, 2018
+  url: https://www.google.com/maps/place/Bratislava,+Slovakia/@44.0624416,16.6980846,6.68z/data=!4m5!3m4!1s0x476c89360aca6197:0x631f9b82fd884368!8m2!3d48.1485965!4d17.1077478
+  state: upcomming
+  
 - city: Lisbon
   country: Portugal
   date:
@@ -6,13 +15,37 @@
   url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
   state: upcomming  
 
-- city: Talinn
-  country: Estonia
+- city: Munich
+  country: Germany
+  date:
+    from: November, 2018
+    to: November, 2018
+  url: https://www.google.de/maps/place/Munich/data=!4m2!3m1!1s0x479e75f9a38c5fd9:0x10cb84a7db1987d?sa=X&ved=0ahUKEwjKnayUr7PSAhVH7RQKHRm2BEkQ8gEIGzAA
+  state: upcomming
+
+- city: Cologne
+  country: Germany
   date:
     from: October, 2018
     to: October, 2018
-  url: https://www.google.com/maps/place/Tallinn,+Estonia/@59.4354294,24.5772631,10.86z/data=!4m13!1m7!3m6!1s0xd10037cd08e6625:0xd44503c5392ddd45!2sTavira,+Portugal!3b1!8m2!3d37.1335906!4d-7.6430019!3m4!1s0x46929499df5616bf:0x400b36d18fc6270!8m2!3d59.4394896!4d24.7521973
-  state: upcomming
+  url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
+  state: current  
+
+- city: Mostar
+  country: Bosnia and Herzegovina
+  date:
+    from: October, 2018
+    to: October, 2018
+  url: https://www.google.com/maps/place/Mostar+88000,+Bosnia+and+Herzegovina/data=!4m2!3m1!1s0x134b43a43b6340a9:0x14f32b2d4e37c5a?sa=X&ved=2ahUKEwi0s8_Aj_DdAhUih6YKHSqHC5UQ8gEwEXoECAoQCw
+  state: past
+
+- city: Ulcinj
+  country: Montenegro
+  date:
+    from: September, 2018
+    to: September, 2018
+  url: https://www.google.com/maps/place/Ulcinj,+Montenegro/@41.9287327,19.1938232,14z/data=!3m1!4b1!4m5!3m4!1s0x134e137ad7321337:0xd6ef6a2f6eb40acc!8m2!3d41.9310884!4d19.2147632
+  state: past  
 
 - city: Kotor
   country: Montenegro
@@ -20,7 +53,7 @@
     from: September, 2018
     to: September, 2018
   url: https://www.google.com/maps/place/Kotor,+Montenegro/@42.6604717,14.3236819,6.28z/data=!4m5!3m4!1s0x134c33063d70c91b:0x7a73f15e212e9306!8m2!3d42.424662!4d18.771234
-  state: upcomming
+  state: past
 
 - city: Dubrovnik
   country: Croatia
@@ -28,7 +61,7 @@
     from: September, 2018
     to: September, 2018
   url: https://www.google.com/maps/place/Dubrovnik,+Croatia/data=!4m2!3m1!1s0x134b8ba20835e87d:0x400ad50862bd500?sa=X&ved=2ahUKEwi2sOiUpKPdAhVOF8AKHcgkClYQ8gEwEXoECAoQCw
-  state: upcomming
+  state: past
 
 - city: Grožnjan
   country: Croatia
@@ -36,7 +69,7 @@
     from: September, 2018
     to: September, 2018
   url: https://www.google.de/maps/place/52429,+Gro%C5%BEnjan,+Croatia/@45.3804677,13.7098336,14z/data=!3m1!4b1!4m5!3m4!1s0x477b5ff92a8e013b:0xc489338fd0dcbbb7!8m2!3d45.3796024!4d13.7226113
-  state: upcomming
+  state: past
 
 - city: Cologne
   country: Germany
@@ -44,7 +77,7 @@
     from: September
     to:
   url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
-  state: current  
+  state: past  
 
 - city: Munich
   country: Germany

@@ -6,20 +6,20 @@
   url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
   state: upcomming  
 
+- city: Vienna
+  country: Austria
+  date:
+    from: December, 2018
+    to: December, 2018
+  url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
+  state: upcomming
+
 - city: Helsinki
   country: Finland
   date:
     from: December, 2018
     to: December, 2018
   url: https://www.google.com/maps/place/Helsinki,+Finland/data=!4m2!3m1!1s0x46920bc796210691:0xcd4ebd843be2f763?ved=2ahUKEwj_vaaI0a7eAhUMGuwKHV62AHAQ8gEwFHoECAYQCA
-  state: upcomming
-
-- city: Bratislava
-  country: Slowakia
-  date:
-    from: November, 2018
-    to: November, 2018
-  url: https://www.google.com/maps/place/Bratislava,+Slovakia/@44.0624416,16.6980846,6.68z/data=!4m5!3m4!1s0x476c89360aca6197:0x631f9b82fd884368!8m2!3d48.1485965!4d17.1077478
   state: upcomming
 
 - city: Cologne

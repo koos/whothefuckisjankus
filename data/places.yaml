@@ -4,21 +4,61 @@
     from: 30. April, 2019
     to: 04. Mai, 2019
   url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
+  state: upcomming
+
+- city: Bettmeralp
+  country: Swiss
+  date:
+    from: February, 2019
+    to: March, 2019
+  url: https://www.google.com/maps/place/Bettmeralp,+Switzerland/@46.4234786,7.978895,12z/data=!3m1!4b1!4m5!3m4!1s0x478f7000b0c56d59:0x954f32f06c69cb10!8m2!3d46.3904991!4d8.0618799
+  state: upcomming
+
+- city: Tegernsee
+  country: Germany
+  date:
+    from: February, 2019
+    to: February, 2019
+  url: https://www.google.com/maps/place/Tegernsee/@47.7183199,11.7308649,13z/data=!3m1!4b1!4m5!3m4!1s0x479d8c219a91bd33:0x41d25a40937a060!8m2!3d47.7131524!4d11.758016
   state: upcomming  
+
+- city: Hazeille
+  country: Belgium
+  date:
+    from: 30. April, 2019
+    to: 04. Mai, 2019
+  url: https://www.google.com/maps/place/6997+Hazeille,+Belgium/@50.2799991,5.5569752,15z/data=!3m1!4b1!4m5!3m4!1s0x47c0468ba8d1a707:0x21a9c7436c685448!8m2!3d50.28!4d5.56573
+  state: upcomming
+
+- city: Munich
+  country: Germany
+  date:
+    from: January, 2019
+    to: January, 2019
+  url: https://www.google.de/maps/place/Munich/data=!4m2!3m1!1s0x479e75f9a38c5fd9:0x10cb84a7db1987d?sa=X&ved=0ahUKEwjKnayUr7PSAhVH7RQKHRm2BEkQ8gEIGzAA
+  state: upcomming 
+
+- city: Frankfurt
+  country: Germany
+  date:
+    from: January, 2019
+    to: January, 2019
+  url: https://www.google.com/maps/place/Frankfurt/@50.1211277,8.4964798,11z/data=!3m1!4b1!4m5!3m4!1s0x47bd096f477096c5:0x422435029b0c600!8m2!3d50.1109221!4d8.6821267
+  state: upcomming    
 
 - city: Vienna
   country: Austria
   date:
-    from: December, 2018
-    to: December, 2018
+    from: 10. December, 2018
+    to: 11. December, 2018
   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
   state: upcomming
 
 - city: Helsinki
   country: Finland
   date:
-    from: December, 2018
-    to: December, 2018
+    from: 03. December, 2018
+    to: 06. December, 2018
   url: https://www.google.com/maps/place/Helsinki,+Finland/data=!4m2!3m1!1s0x46920bc796210691:0xcd4ebd843be2f763?ved=2ahUKEwj_vaaI0a7eAhUMGuwKHV62AHAQ8gEwFHoECAYQCA
   state: upcomming
 
@@ -28,7 +68,7 @@
     from: November, 2018
     to: November, 2018
   url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
-  state: upcomming  
+  state: current  
 
 - city: Vienna
   country: Austria
@@ -36,7 +76,7 @@
     from: November, 2018
     to: November, 2018
   url: https://www.google.com/maps/place/Vienna,+Austria/@48.2208286,16.2399787,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189
-  state: upcomming
+  state: past
 
 - city: Cologne
   country: Germany
@@ -44,7 +84,7 @@
     from: October, 2018
     to: October, 2018
   url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
-  state: current  
+  state: past  
 
 - city: Vienna
   country: Austria

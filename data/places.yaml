@@ -20,7 +20,7 @@
     from: June, 2019
     to: June, 2019
   url: https://www.google.com/maps/place/Istanbul,+Turkey/@41.0055005,28.7320037,10z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589
-  state: upcomming
+  state: current
 
 - city: Sofia (София) 
   country: Bulgaria
@@ -28,7 +28,7 @@
     from: Mai, 2019
     to: Mai, 2019
   url: https://www.google.com/maps/place/Sofia,+Bulgaria/@42.695537,23.2539074,12z/data=!3m1!4b1!4m5!3m4!1s0x40aa8682cb317bf5:0x400a01269bf5e60!8m2!3d42.6977082!4d23.3218675
-  state: upcomming
+  state: past
 
 - city: Cologne
   country: Germany
@@ -36,7 +36,7 @@
     from: Mai, 2019
     to: Mai, 2019
   url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
-  state: current
+  state: past
 
 - city: Kaiserslautern
   country: Germany

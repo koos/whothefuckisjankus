@@ -1,9 +1,105 @@
-- city: Lisbon
-  country: Portugal
+- city: Lausitz
+  country: Germany
   date:
     from: November, 2019
     to: November, 2019
+  url: https://www.google.com/maps/place/03149+Forst/@51.7375416,14.4913146,11z/data=!3m1!4b1!4m5!3m4!1s0x47087ec2c9e128bb:0x6ecfaa143ce0b9ac!8m2!3d51.7441459!4d14.6474905
+  state: upcomming 
+
+- city: Tenerife
+  country: Spain
+  date:
+    from: 07. November, 2019
+    to: 15. November, 2019
+  url: https://www.google.de/maps/place/Tenerife/@28.2931074,-16.8035337,10z/data=!3m1!4b1!4m5!3m4!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304
+  state: upcomming
+
+- city: Lisbon
+  country: Portugal
+  date:
+    from: 04. November, 2019
+    to: 07. November, 2019
   url: https://www.google.com/maps/place/Lisbon,+Portugal/@38.7436055,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366
+  state: upcomming
+
+- city: Tenerife
+  country: Spain
+  date:
+    from: 30. October, 2019
+    to: 04. November, 2019
+  url: https://www.google.de/maps/place/Tenerife/@28.2931074,-16.8035337,10z/data=!3m1!4b1!4m5!3m4!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304
+  state: upcomming
+
+- city: Salzburg
+  country: Germany
+  date: 
+    from: October, 2019
+    to: October, 2019
+  url: https://www.google.com/maps/place/Salzburg,+Austria/@47.8027887,12.9863902,12z/data=!3m1!4b1!4m5!3m4!1s0x47769adda908d4b1:0xc1e183a1412af73d!8m2!3d47.80949!4d13.05501
+  state: upcomming 
+
+- city: Munich
+  country: Germany
+  date:
+    from: October, 2019
+    to: October, 2019
+  url: https://www.google.de/maps/place/Munich/data=!4m2!3m1!1s0x479e75f9a38c5fd9:0x10cb84a7db1987d?sa=X&ved=0ahUKEwjKnayUr7PSAhVH7RQKHRm2BEkQ8gEIGzAA
+  state: upcomming 
+
+- city: Hanau
+  country: Germany
+  date:
+    from: October, 2019
+    to: October, 2019
+  url: https://www.google.com/maps/place/Hanau/@50.1353488,8.8760443,12z/data=!3m1!4b1!4m5!3m4!1s0x47bd171f6e8b4759:0x8e8b6f7814ad424a!8m2!3d50.1264123!4d8.9283105
+  state: upcomming  
+
+- city: Hamburg
+  country: Germany
+  date:
+    from: September, 2019
+    to: September, 2019
+  url: https://www.google.de/maps/place/Hamburg/@53.5584898,9.7873969,11z/data=!4m5!3m4!1s0x47b161837e1813b9:0x4263df27bd63aa0!8m2!3d53.5510846!4d9.9936818
+  state: upcomming  
+
+- city: Berlin
+  country: Germany
+  date:
+    from: September, 2019
+    to: September, 2019
+  url: https://www.google.de/maps/place/Berlin/@51.151786,10.415039,6z/data=!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
+  state: upcomming  
+
+- city: Montreux
+  country: Switzerland
+  date:
+    from: September, 2019
+    to: September, 2019
+  url: https://www.google.com/maps/place/Montreux,+Switzerland/@46.4461988,6.8806149,13z/data=!3m1!4b1!4m13!1m7!3m6!1s0x476531f5969886d1:0x400f81c823fec20!2sLjubljana,+Slovenia!3b1!8m2!3d46.0569465!4d14.5057515!3m4!1s0x478e9b20cdb650cd:0xccc07a7fc46d1847!8m2!3d46.4312318!4d6.9104004
+  state: upcomming
+
+- city: Florence
+  country: Italy
+  date:
+    from: August, 2019
+    to: September, 2019
+  url: https://www.google.com/maps/place/Florence,+Metropolitan+City+of+Florence,+Italy/@44.1081941,10.7569494,8z/data=!4m13!1m7!3m6!1s0x476531f5969886d1:0x400f81c823fec20!2sLjubljana,+Slovenia!3b1!8m2!3d46.0569465!4d14.5057515!3m4!1s0x132a56a680d2d6ad:0x93d57917efc72a03!8m2!3d43.7691105!4d11.2554932
+  state: upcomming
+
+- city: Ljubljana
+  country: Slovenia
+  date:
+    from: August, 2019
+    to: August, 2019
+  url: https://www.google.com/maps/place/Ljubljana,+Slovenia/@46.066215,14.4618878,12z/data=!3m1!4b1!4m5!3m4!1s0x476531f5969886d1:0x400f81c823fec20!8m2!3d46.0569465!4d14.5057515
+  state: upcomming
+
+- city: Zell am See
+  country: Austria
+  date:
+    from: 23. August, 2019
+    to: 25. August, 2019
+  url: https://www.google.com/maps/place/5700+Zell+am+See,+Austria/@47.3236379,12.7828248,13z/data=!3m1!4b1!4m5!3m4!1s0x47771d6d8c2d0ccb:0x453135a3af71ddc2!8m2!3d47.32352!4d12.79685
   state: upcomming
 
 - city: Cologne
@@ -13,6 +109,62 @@
     to: June, 2019
   url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
   state: current
+
+- city: Weil am Rhein
+  country: Germany
+  date:
+    from: July, 2019
+    to: July, 2019
+  url: https://www.google.com/maps/place/Weil+am+Rhein/@47.6055995,7.5732523,13z/data=!3m1!4b1!4m5!3m4!1s0x4791ba036551a989:0x1966c7b97b098fd!8m2!3d47.5934368!4d7.6198121
+  state: past
+
+- city: Freiburg im Breisgau
+  country: Germany
+  date:
+    from: July, 2019
+    to: July, 2019
+  url: https://www.google.com/maps/place/Freiburg+im+Breisgau/@47.987226,7.6563364,11z/data=!3m1!4b1!4m5!3m4!1s0x47911b26560bd665:0x41f6bb7a5df57b0!8m2!3d47.9990077!4d7.8421043
+  state: past
+
+- city: Freiburg
+  country: Germany
+  date:
+    from: July, 2019
+    to: July, 2019
+  url: https://www.google.com/maps/place/Freiburg+im+Breisgau/@47.987226,7.6563364,11z/data=!3m1!4b1!4m5!3m4!1s0x47911b26560bd665:0x41f6bb7a5df57b0!8m2!3d47.9990077!4d7.8421043
+  state: past
+
+- city: Landau
+  country: Germany
+  date:
+    from: July, 2019
+    to: July, 2019
+  url: https://www.google.com/maps/place/Landau/@49.2355415,7.8829504,11z/data=!3m1!4b1!4m5!3m4!1s0x479650f14e424fe1:0xe3bcf1d1f7e987e9!8m2!3d49.198886!4d8.1185622
+  state: past
+
+- city: Heidelberg
+  country: Germany
+  date:
+    from: July, 2019
+    to: July, 2019
+  url: https://www.google.com/maps/place/Heidelberg/@49.2722332,8.5753193,10z/data=!4m5!3m4!1s0x4797c1050eccdccd:0xefe6ea0044243ad7!8m2!3d49.3987524!4d8.6724335
+  state: past
+
+- city: Zwingenberg
+  country: Germany
+  date:
+    from: July, 2019
+    to: July, 2019
+  url: https://www.google.com/maps/place/Zwingenberg/@49.4154077,9.0168368,14z/data=!3m1!4b1!4m5!3m4!1s0x4797f3d6b09a218d:0x41ffd3c8d094f80!8m2!3d49.4150468!4d9.0447136
+  state: past
+
+- city: Zwingenberg
+  country: Germany
+  date:
+    from: July, 2019
+    to: July, 2019
+  url: https://www.google.com/maps/place/Zwingenberg/@49.7228046,8.5761944,14z/data=!3m1!4b1!4m5!3m4!1s0x47bd7d0c6a6e928f:0xdbea21367d5d6c1a!8m2!3d49.7250007!4d8.6109754
+  state: past
 
 - city: Nürburgring
   country: Germany

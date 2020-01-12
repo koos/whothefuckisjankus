@@ -1,1 +1,1 @@
-# Where the fuck is Jan Kus?
+# Who the fuck is Jan Kus?

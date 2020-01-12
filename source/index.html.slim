@@ -1,11 +1,50 @@
-ul.c-places
-  - data.places.each_with_index do |place, index|
-    - daterange = !place.date.to.nil?
-    li.c-places__item class="is--#{place.state}"
-      .c-places__body
-        = link_to "#{place.city}, #{place.country}", place.url, class: "c-places__name", target: "_blank"
-        span.c-places__date 
-          time date=place.date.from =place.date.from
-          - if daterange
-            | &nbsp;&mdash;&nbsp;
-            time date=place.date.to =place.date.to
+.o-container
+  .o-row
+    .about-me
+      h1
+        ="Jan Kus"
+      p
+        ="Ich biete Beratung für Gründer, Startups und etablierte Unternehmen. Als Speaker stehe ich mit Expertise in den Bereichen Finanztechnologie, Open Banking, Digitalisierung und Communitys zur Verfügung."
+      p
+        ="Sprechen Sie mich an, um über Wege zu reden, Ihr Unternehmen digital besser aufzustellen, Innovation zu verwirklichen und neue Ideen lebendig werden zu lassen."
+      p
+        = link_to "Mehr über mich", "#", class: "c-about-me", target: "_blank"
+  .o-row
+    .about-me
+      h1
+        ="Entrepreneur"
+      p
+        ="Als Mitgründer und CEO von erfolgreichen Unternehmen wie"
+        = link_to " Railslove ", "https://railslove.com", class: "c-about-me"
+        = "und"
+        = link_to " hack.institute ", "https://hack.institute", class: "c-about-me"
+        ="weiß ich, wie man eine Idee zu einem Konzept und schließlich zur Umsetzung entwickelt. Seit vielen Jahren unterstütze ich die kreative digitale Community bei Gründungsvorhaben und helfe Startups ihre Geschäftsidee zu befeuern. Inhaltlich schlägt mein Herz für die Themen FinTech und Open Banking – zusammen mit dem Railslove-Team habe ich die Informationsplattform FinTech Weekly etabliert."
+      p
+        = link_to "Mehr erfahren", "https://railslove.com/jan", class: "c-about-me"
+
+  .o-row
+    .about-me
+      h1
+        ="Speaker / Moderator"
+      p
+        ="Als Speaker und Moderator stehe ich für Strategie-Tagungen, Kongresse, Innovationsevents, interne Messen und Abendveranstaltungen sowie Meetups zur Verfügung. Dabei spreche ich über Themen wie FinTech, Open Banking und die Veränderung der Finanzbranche. Oder auch darüber, wie man Geschäftsmodelle in einer anspruchsvollen digitalen Realität entwickelt und dabei das Potential von Communitys nutzen kann. Meine Moderationsausbildung habe ich beim Moderatorenwerk erhalten. "
+      p
+        = link_to "Buchungsanfrage stellen", "mailto:speakingrequest@kus.cologne", class: "c-about-me"
+
+  .o-row
+    .about-me
+      h1
+        ="Lehrbeauftragter"
+      p
+        ="Ich bin Dozent an der TH Köln, wo ich Projektarbeiten von Studierenden begleite. Hierbei geht es darum, Konzepte für ein Produkt oder einen Dienst auszuarbeiten, sodass ein Entwicklerteam in der Lage ist, einen Prototyp zu realisieren. Mein Ziel ist es, lösungsorientierte Lehransätze zu etablieren. Ich möchte mit modernen Methoden und Ansätzen wie Design Thinking, Sprint und Hackathons aktive Lehre betreiben, damit Studierende Tools lernen, die sie im Arbeitsalltag brauchen."
+      p
+        = link_to "Kontakt aufnehmen", "mailto:jan.kus@th-koeln.de", class: "c-about-me"
+
+  .o-row
+    .about-me
+      h1
+        ="Community Activist"
+      p
+        ="Ich organisiere Meetups und Hackathons, um Unternehmertum, kreative Innovation und digitale Kunst zu fördern. Meine Leidenschaft gilt dem Aufbau von Netzwerken und der Vermittlung zwischen den kontrastierenden Welten großer Unternehmen und der Community – um an dieser Schnittstelle perfekte digitale Produkte und Erlebnisse zu formen. Meine Veranstaltungen und Formate sind auf Konferenzen und Festivals wie der SXSW, Tech Open Air und Interactive Cologne ausgetragen worden."
+      p
+        = link_to "Mehr erfahren", "https://www.meetup.com/members/34823422", class: "c-about-me", target: "_blank"                         

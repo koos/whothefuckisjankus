@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/vast/middleman-es6.git
+  remote: https://github.com/vast/middleman-es6.git
   revision: b7964bd199457e930251d9ad3ce00ea6ad70b8d7
   specs:
     middleman-es6 (0.1.0)
@@ -144,7 +144,7 @@ GEM
     thor (0.20.3)
     thread_safe (0.3.6)
     tilt (1.4.1)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uber (0.0.15)
     uglifier (2.7.2)
